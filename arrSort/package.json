@@ -1,0 +1,10 @@
+{
+  "name": "arrSort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@jheremois",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  }
+}
