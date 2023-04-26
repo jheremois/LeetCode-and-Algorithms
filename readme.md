@@ -2,7 +2,7 @@
 
 This repository contains some of the LeetCode problems I have solved and other common algorithms that I am familiar with.
 
-## Algorithms
+## Algorithms:
 
 - [x] Sort an array
 - [x] Binary search
